@@ -1,0 +1,50 @@
+Full Stack Python Developer
+
+Env : Test, Acceptance & Production
+
+Servers : 
+
+1. Windows Server
+2. Unix Servers
+3. Linux Servers 
+
+1. In House Data Center 
+2. Cloud : 
+	1. AWS
+	2. Google
+	3. Open Stack
+
+OS : 
+
+Windows - GUI + CUI
+DOS     - CUI
+
+MacOS   - GUI + CUI
+
+Unix Kernel - CUI (Dennies R, Ken T, Joe etc ; 1972-73)
+Linux Kernel - CUI (Linus Torvalds 1991)
+
+CUI = Text Mode 
+
+Linux Distributions: GUI + CUI 
+REDHAT 
+CENTOS
+Ubuntu
+
+GNU : Open Source 
+
+
+Unix Distribution : GUI + CUI 
+HP
+AIX
+Solaris
+BSD
+
+
+Virtualization :
+1. Vmware Workstation - Windows
+2. Vmware Fusion      - MacOS
+3. Oracle Virtual Box - Windows & MacOS
+
+
+
